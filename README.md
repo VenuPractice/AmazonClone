@@ -1,7 +1,7 @@
 
 # Amazon - Clone using ReactJs
 
-**Project Link** - ***//***
+**Project Link** - ***(https://main--amazonclonebyvenu.netlify.app/)***
 
 ## Tech We Used
 
